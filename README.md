@@ -35,7 +35,7 @@
 
 (Blurred and Equalized Image)
 
-A threshold filter is applied to create a binary image from which the pupil can be detected: cv2.threshold(blurredImage, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
+- A threshold filter is applied to create a binary image from which the pupil can be detected: cv2.threshold(blurredImage, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
 <img width="629" alt="image" src="https://github.com/user-attachments/assets/748082a0-b24b-4fc9-ac81-32ce43430ec5">
 
 (Thresholded Binary Image from which the pupil can be detected)
