@@ -1,4 +1,5 @@
 # PediaView Image Analysis Software
+Pediview is a device developed for screening pediatric children for rential abnormalities and refractive errors using red reflex images of their eyes
 ## Image analysis software for PediaView developed for Forus Health
 - The Image analysis software uses the color and IR images of the pupil captured by the device to screen for refractive error and other ocular/retinal disorders
 - The color image is used for getting the red reflex of the eye and the IR image is used for pupil detection.
