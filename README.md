@@ -49,7 +49,7 @@
 <img width="622" alt="image" src="https://github.com/user-attachments/assets/e7bd0195-b8bd-43e7-b0c5-ede1ce9244a3">
 
 (The Pupils highlighted on the IR Image)
-The contours detected from the IR image is overlaid on top of the color image to detect the red reflex
+- The contours detected from the IR image is overlaid on top of the color image to detect the red reflex
 <img width="622" alt="image" src="https://github.com/user-attachments/assets/5b92e28b-aec6-4338-9f4d-a3542450ff31">
 
 - The contours and the red reflex may not exactly align due to camera movement and patient movement, but this leads to minimal error in image analysis and can largely be ignored
