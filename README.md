@@ -10,11 +10,12 @@
 - Intensity of digital potentiometer 0xBF
 - Color gain parameter in picamer2 (1.5,3.0)
 - Exposure time 67ms
-<img width="627" alt="image" src="https://github.com/user-attachments/assets/1e6f9674-aa2a-44a4-8777-f163ce175690">
+<img width="624" alt="image" src="https://github.com/user-attachments/assets/da163f7c-75a4-4fbb-9144-5ac7dc1f1c4f">
+
 
 
 **IR Image:**
-Used for pupil detection
+- Used for pupil detection
 <img width="617" alt="image" src="https://github.com/user-attachments/assets/e6a9eae7-e477-4047-b351-d6f06e2c4f8f">
 
 ## Image Analysis Algorithms:
