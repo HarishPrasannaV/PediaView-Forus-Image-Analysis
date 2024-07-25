@@ -160,7 +160,7 @@ def refractiveError(slopes, a_dir, thresh=0.4):
     for i in slopes:
         if i > thresh:
             result = True
-    if a >0:
+    if a <0:
         type = "Myopia"
     else:
         type = "Hyperopia"
